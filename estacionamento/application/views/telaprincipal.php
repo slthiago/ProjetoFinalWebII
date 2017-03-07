@@ -243,7 +243,7 @@
     </style>
 
     <div  leftmargin="0" topmargin="0"><div align="center">
-            <TABLE id="tabela" BORDER=2 CELLPADDING=2 align='center'  width=800px bgcolor="	#556B2F" class="pat" class="opp" > 
+            <TABLE id="tabela" BORDER=2 CELLPADDING=2 align='center'  width=800px bgcolor="#556B2F" class="pat" class="opp" > 
                 <TR>
                     <TD ROWSPAN=2><h1><?php echo $titulo; ?></h1></TD>
                     <TD><div><p><?php echo $texto; ?></p></TD></TR><TR> <TD><ul>
