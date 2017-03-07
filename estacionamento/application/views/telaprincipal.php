@@ -13,7 +13,7 @@
 
         <li><a href="#">Cadastro</a>
             <ul>
-                <li><a href="http://localhost/aulas/estacionamento/index.php/controlador/">Cliente</a></li>
+                <li><a href="http://localhost/ProjetoFinalWebII/estacionamento/index.php/controlador/">Cliente</a></li>
                 <li><a href="#">Carro</a></li>
             </ul>
         </li>
@@ -207,7 +207,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body background="http://localhost/aulas/estacionamento/esta.jpg">
+<body background="http://localhost/ProjetoFinalWebII/estacionamento/esta.jpg">
 
 
 
